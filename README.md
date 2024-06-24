@@ -3,7 +3,7 @@
 Meu nome e Ana Clara 
 
 Sou aluna e estou estudando Alura
-Estou me desemvolvendo na linguagem javaScript
+Estou me desenvolvendo na linguagem javaScript
 -Utilizo esse espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos 
 
 ## voce entrar em contato comigo 
